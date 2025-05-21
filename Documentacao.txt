@@ -1,0 +1,10 @@
+Grupo: 11
+
+Integrantes:
+  *   Kleber Junior Alves Pereira - 2020054625
+  *   Letícia Miranda Ribeiro - 2021095686
+  *   Lucca Alvarenga de Magalhães Pinto - 2021036736
+  *   Victor Gabriel Moura Oliveira - 2021019602
+
+Link Google Colab:
+https://colab.research.google.com/drive/1V0TgU-m6W5yYc9wC7cu8XxB2xXCca8QT?usp=sharing
